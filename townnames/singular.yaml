@@ -22,6 +22,8 @@ mainset:
     probability: 1
   - name: Enchiridion
     probability: 1
+  - name: Sesquipedalian
+    probability: 1
 name: Singular
 source: null
 subsets: []

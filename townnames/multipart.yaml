@@ -3,7 +3,7 @@ id: 0
 mainset:
 - names:
   - name: ''
-    probability: 100
+    probability: 150
   - name: '@prefix'
     probability: 1
 - names:
@@ -369,6 +369,18 @@ mainset:
     probability: 1
   - name: Bright
     probability: 1
+  - name: Gloaming
+    probability: 1
+  - name: Minauderie
+    probability: 1
+  - name: Foison
+    probability: 1
+  - name: Harvest
+    probability: 1
+  - name: Dapperpye
+    probability: 1
+  - name: Plapper
+    probability: 1
 - names:
   - name: ''
     probability: 50
@@ -429,11 +441,11 @@ mainset:
   - name: sville
     probability: 1
   - name: ton
-    probability: 1
+    probability: 3
   - name: town
     probability: 1
   - name: ville
-    probability: 1
+    probability: 3
   - name: well
     probability: 1
   - name: wood
@@ -514,9 +526,11 @@ mainset:
     probability: 1
   - name: ledge
     probability: 1
-  - name: Garden
+  - name: ' Garden'
     probability: 1
   - name: ley
+    probability: 1
+  - name: ' Moon'
     probability: 1
 name: Multipart
 source: null
