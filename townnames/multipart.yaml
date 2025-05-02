@@ -456,10 +456,6 @@ mainset:
     probability: 1
   - name: ' Point'
     probability: 1
-  - name: '''s Head'
-    probability: 1
-  - name: '''s End'
-    probability: 1
   - name: ' River'
     probability: 1
   - name: ' Shores'
@@ -494,8 +490,6 @@ mainset:
     probability: 1
   - name: ' Maze'
     probability: 1
-  - name: '''s Delight'
-    probability: 1
   - name: born
     probability: 1
   - name: boom
@@ -519,8 +513,6 @@ mainset:
   - name: ' Estates'
     probability: 1
   - name: ledge
-    probability: 1
-  - name: '''s Heart'
     probability: 1
   - name: Garden
     probability: 1
