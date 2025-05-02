@@ -1,0 +1,27 @@
+available: true
+id: 1
+mainset:
+- names:
+  - name: Abysm
+    probability: 1
+  - name: Trust Falls
+    probability: 1
+  - name: Evanescent Field
+    probability: 1
+  - name: Frogspawn
+    probability: 1
+  - name: Neptunine
+    probability: 1
+  - name: Duvetyn
+    probability: 1
+  - name: Thalassica
+    probability: 1
+  - name: Popularia
+    probability: 1
+  - name: Astrophel
+    probability: 1
+  - name: Enchiridion
+    probability: 1
+name: Singular
+source: null
+subsets: []

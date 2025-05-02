@@ -1,0 +1,566 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: ''
+    probability: 100
+  - name: '@prefix'
+    probability: 1
+- names:
+  - name: Abernathy
+    probability: 1
+  - name: Achlys
+    probability: 1
+  - name: Afternoon
+    probability: 1
+  - name: Aimonomia
+    probability: 1
+  - name: Ambedo
+    probability: 1
+  - name: Amethyst
+    probability: 1
+  - name: Amort
+    probability: 1
+  - name: Anywither
+    probability: 1
+  - name: Ash
+    probability: 1
+  - name: Aster
+    probability: 1
+  - name: Autumn
+    probability: 1
+  - name: Beverly
+    probability: 1
+  - name: Bezel
+    probability: 1
+  - name: Bibula
+    probability: 1
+  - name: Blood
+    probability: 1
+  - name: Blossom
+    probability: 1
+  - name: Bronze
+    probability: 1
+  - name: Bryony
+    probability: 1
+  - name: Caddywampus
+    probability: 1
+  - name: Calypso
+    probability: 1
+  - name: Cecily
+    probability: 1
+  - name: Cerise
+    probability: 1
+  - name: Charcoal
+    probability: 1
+  - name: Charlotte
+    probability: 1
+  - name: Cheshire
+    probability: 1
+  - name: Chirk
+    probability: 1
+  - name: Claret
+    probability: 1
+  - name: Copper
+    probability: 1
+  - name: Cosmo
+    probability: 1
+  - name: Covfefe
+    probability: 1
+  - name: Crumpling
+    probability: 1
+  - name: Curiosa
+    probability: 1
+  - name: Cypress
+    probability: 1
+  - name: Daffodil
+    probability: 1
+  - name: Dahlia
+    probability: 1
+  - name: Darcy
+    probability: 1
+  - name: Darling
+    probability: 1
+  - name: Dead
+    probability: 1
+  - name: Drexil
+    probability: 1
+  - name: Ebony
+    probability: 1
+  - name: Ephydriad
+    probability: 1
+  - name: Etterath
+    probability: 1
+  - name: Ever
+    probability: 1
+  - name: Ferox
+    probability: 1
+  - name: Fillyloo
+    probability: 1
+  - name: Firtle
+    probability: 1
+  - name: Fitzcarraldo
+    probability: 1
+  - name: Florian
+    probability: 1
+  - name: Foehn
+    probability: 1
+  - name: Fribble
+    probability: 1
+  - name: Gilliver
+    probability: 1
+  - name: Ginger
+    probability: 1
+  - name: Gnossienne
+    probability: 1
+  - name: Gold
+    probability: 1
+  - name: Goldenrod
+    probability: 1
+  - name: Gossamer
+    probability: 1
+  - name: Grapplehook
+    probability: 1
+  - name: Hambroneme
+    probability: 1
+  - name: Hazel
+    probability: 1
+  - name: Hearth
+    probability: 1
+  - name: Hemlock
+    probability: 1
+  - name: Lysander
+    probability: 1
+  - name: Henley
+    probability: 1
+  - name: Hinkypunk
+    probability: 1
+  - name: Indigo
+    probability: 1
+  - name: Ink
+    probability: 1
+  - name: Ivory
+    probability: 1
+  - name: Jasper
+    probability: 1
+  - name: Kinborough
+    probability: 1
+  - name: Kingsley
+    probability: 1
+  - name: Lalalalia
+    probability: 1
+  - name: Lavender
+    probability: 1
+  - name: Lightning
+    probability: 1
+  - name: Lilac
+    probability: 1
+  - name: Lily
+    probability: 1
+  - name: Linden
+    probability: 1
+  - name: Lux
+    probability: 1
+  - name: Maybury
+    probability: 1
+  - name: Monstera
+    probability: 1
+  - name: Moonshine
+    probability: 1
+  - name: Needle
+    probability: 1
+  - name: Nementia
+    probability: 1
+  - name: Nighthawk
+    probability: 1
+  - name: Nightjar
+    probability: 1
+  - name: Oak
+    probability: 1
+  - name: Oblivion
+    probability: 1
+  - name: Obsidian
+    probability: 1
+  - name: Ormolu
+    probability: 1
+  - name: Orrery
+    probability: 1
+  - name: Patience
+    probability: 1
+  - name: Pewter
+    probability: 1
+  - name: Phanopoeia
+    probability: 1
+  - name: Pine
+    probability: 1
+  - name: Plum
+    probability: 1
+  - name: Prescott
+    probability: 1
+  - name: Quartz
+    probability: 1
+  - name: Quigley
+    probability: 1
+  - name: Radiance
+    probability: 1
+  - name: Raining
+    probability: 1
+  - name: Raven
+    probability: 1
+  - name: Sable
+    probability: 1
+  - name: Saffron
+    probability: 1
+  - name: Sapphire
+    probability: 1
+  - name: Saturnina
+    probability: 1
+  - name: Scarlet
+    probability: 1
+  - name: Sementine
+    probability: 1
+  - name: Senticous
+    probability: 1
+  - name: Sigogglin
+    probability: 1
+  - name: Silhouette
+    probability: 1
+  - name: Silver
+    probability: 1
+  - name: Sinclair
+    probability: 1
+  - name: Sky
+    probability: 1
+  - name: Solitaire
+    probability: 1
+  - name: Sonder
+    probability: 1
+  - name: Sonus
+    probability: 1
+  - name: Spider
+    probability: 1
+  - name: Spinturnix
+    probability: 1
+  - name: Spring
+    probability: 1
+  - name: Spruce
+    probability: 1
+  - name: Summer
+    probability: 1
+  - name: Sunflower
+    probability: 1
+  - name: Teague
+    probability: 1
+  - name: Thunder
+    probability: 1
+  - name: Topaz
+    probability: 1
+  - name: Travertine
+    probability: 1
+  - name: Trillium
+    probability: 1
+  - name: Umber
+    probability: 1
+  - name: Venom
+    probability: 1
+  - name: Violet
+    probability: 1
+  - name: Wallflower
+    probability: 1
+  - name: Windsong
+    probability: 1
+  - name: Winter
+    probability: 1
+  - name: Wren
+    probability: 1
+  - name: Wrox
+    probability: 1
+  - name: Xanthippe
+    probability: 1
+  - name: Yonder
+    probability: 1
+  - name: Zylphia
+    probability: 1
+  - name: Cobalt
+    probability: 1
+  - name: Nova
+    probability: 1
+  - name: Astro
+    probability: 1
+  - name: Mars
+    probability: 1
+  - name: Jupiter
+    probability: 1
+  - name: Andromeda
+    probability: 1
+  - name: Onyx
+    probability: 1
+  - name: Light
+    probability: 1
+  - name: Floyd
+    probability: 1
+  - name: Quark
+    probability: 1
+  - name: Cassiopeia
+    probability: 1
+  - name: Basilisk
+    probability: 1
+  - name: Petrichor
+    probability: 1
+  - name: Evergreen
+    probability: 1
+  - name: Orpheus
+    probability: 1
+  - name: Morpheus
+    probability: 1
+  - name: Dull
+    probability: 1
+  - name: Mist
+    probability: 1
+  - name: Misery
+    probability: 1
+  - name: Anaximander
+    probability: 1
+  - name: Apodixis
+    probability: 1
+  - name: Ataraxia
+    probability: 1
+  - name: Chaos
+    probability: 1
+  - name: Chroma
+    probability: 1
+  - name: Rose
+    probability: 1
+  - name: Phantom
+    probability: 1
+  - name: Ghost
+    probability: 1
+  - name: Joy
+    probability: 1
+  - name: Lexis
+    probability: 1
+  - name: Momus
+    probability: 1
+  - name: Phantasia
+    probability: 1
+  - name: Paradox
+    probability: 1
+  - name: Praxis
+    probability: 1
+  - name: Scholastica
+    probability: 1
+  - name: Styx
+    probability: 1
+  - name: Threnody
+    probability: 1
+  - name: Calamity
+    probability: 1
+  - name: Tethys
+    probability: 1
+  - name: Adamantine
+    probability: 1
+  - name: Acorn
+    probability: 1
+  - name: Ace
+    probability: 1
+  - name: Arrow
+    probability: 1
+  - name: Abyss
+    probability: 1
+  - name: Bright
+    probability: 1
+- names:
+  - name: ''
+    probability: 50
+  - name: ' Bay'
+    probability: 1
+  - name: ' Bridge'
+    probability: 1
+  - name: ' Brook'
+    probability: 1
+  - name: ' Center'
+    probability: 1
+  - name: ' Corners'
+    probability: 1
+  - name: ' Falls'
+    probability: 1
+  - name: ' Fields'
+    probability: 1
+  - name: ' Hill'
+    probability: 1
+  - name: ' Hills'
+    probability: 1
+  - name: ' Lake'
+    probability: 1
+  - name: ' Meadow'
+    probability: 1
+  - name: ' Mountain'
+    probability: 1
+  - name: ' Nap'
+    probability: 1
+  - name: ' Oaks'
+    probability: 1
+  - name: ' Pines'
+    probability: 1
+  - name: ' Ridge'
+    probability: 1
+  - name: ' Spire'
+    probability: 1
+  - name: ' Valley'
+    probability: 1
+  - name: berg
+    probability: 1
+  - name: brook
+    probability: 1
+  - name: burg
+    probability: 1
+  - name: ford
+    probability: 1
+  - name: glow
+    probability: 1
+  - name: land
+    probability: 1
+  - name: ston
+    probability: 1
+  - name: stone
+    probability: 1
+  - name: stown
+    probability: 1
+  - name: sville
+    probability: 1
+  - name: ton
+    probability: 1
+  - name: town
+    probability: 1
+  - name: ville
+    probability: 1
+  - name: well
+    probability: 1
+  - name: wood
+    probability: 1
+  - name: ' Creek'
+    probability: 1
+  - name: ' Grove'
+    probability: 1
+  - name: ' Springs'
+    probability: 1
+  - name: ' City'
+    probability: 1
+  - name: s
+    probability: 1
+  - name: ia
+    probability: 1
+  - name: ' Harbor'
+    probability: 1
+  - name: ' Sound'
+    probability: 1
+  - name: ' Point'
+    probability: 1
+  - name: '''s Head'
+    probability: 1
+  - name: '''s End'
+    probability: 1
+  - name: ' River'
+    probability: 1
+  - name: ' Shores'
+    probability: 1
+  - name: ' City'
+    probability: 1
+  - name: ' Summit'
+    probability: 1
+  - name: ' Zenith'
+    probability: 1
+  - name: ' Zest'
+    probability: 1
+  - name: ster
+    probability: 1
+  - name: sburg
+    probability: 1
+  - name: sberg
+    probability: 1
+  - name: ' Syzygy'
+    probability: 1
+  - name: ' Woods'
+    probability: 1
+  - name: ' Forest'
+    probability: 1
+  - name: ' Hole'
+    probability: 1
+  - name: ' Winds'
+    probability: 1
+  - name: ' Horizon'
+    probability: 1
+  - name: ' Labyrinth'
+    probability: 1
+  - name: ' Maze'
+    probability: 1
+  - name: '''s Delight'
+    probability: 1
+  - name: born
+    probability: 1
+  - name: boom
+    probability: 1
+  - name: ' Alley'
+    probability: 1
+  - name: ' Settlement'
+    probability: 1
+  - name: ' Village'
+    probability: 1
+  - name: ' District'
+    probability: 1
+  - name: ' Gate'
+    probability: 1
+  - name: scape
+    probability: 1
+  - name: ' Prairie'
+    probability: 1
+  - name: ' Acres'
+    probability: 1
+  - name: ' Estates'
+    probability: 1
+  - name: ledge
+    probability: 1
+  - name: '''s Heart'
+    probability: 1
+  - name: Garden
+    probability: 1
+  - name: ley
+    probability: 1
+name: Multipart
+source: null
+subsets:
+- name: prefix
+  parts:
+  - names:
+    - name: ''
+      probability: 1
+    - name: 'West '
+      probability: 2
+    - name: 'East '
+      probability: 2
+    - name: 'North '
+      probability: 2
+    - name: 'Mount '
+      probability: 2
+    - name: 'South '
+      probability: 2
+    - name: 'New '
+      probability: 1
+    - name: 'Port '
+      probability: 2
+    - name: 'Infinite '
+      probability: 1
+    - name: 'Lake '
+      probability: 1
+    - name: 'Grand '
+      probability: 1
+    - name: 'Old '
+      probability: 1
+    - name: 'Eternal '
+      probability: 1
+    - name: 'Dark '
+      probability: 1
+    - name: ' First '
+      probability: 1
+    - name: 'Last '
+      probability: 1
