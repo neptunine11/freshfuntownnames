@@ -381,6 +381,74 @@ mainset:
     probability: 1
   - name: Plapper
     probability: 1
+  - name: Serpentine
+    probability: 1
+  - name: Snake
+    probability: 1
+  - name: Pleasant
+    probability: 1
+  - name: Clove
+    probability: 1
+  - name: Sage
+    probability: 1
+  - name: Charm
+    probability: 1
+  - name: Sparrow
+    probability: 1
+  - name: Cardinal
+    probability: 1
+  - name: Robin
+    probability: 1
+  - name: Spector
+    probability: 1
+  - name: Shade
+    probability: 1
+  - name: Celestial
+    probability: 1
+  - name: Quince
+    probability: 1
+  - name: Canary
+    probability: 1
+  - name: Solar
+    probability: 1
+  - name: Peridot
+    probability: 1
+  - name: Mint
+    probability: 1
+  - name: Acacia
+    probability: 1
+  - name: Amber
+    probability: 1
+  - name: Ember
+    probability: 1
+  - name: Hawthorne
+    probability: 1
+  - name: Blackberry
+    probability: 1
+  - name: Briar
+    probability: 1
+  - name: Crimson
+    probability: 1
+  - name: Hawk
+    probability: 1
+  - name: Emerald
+    probability: 1
+  - name: Viridian
+    probability: 1
+  - name: Clover
+    probability: 1
+  - name: Halloo
+    probability: 1
+  - name: Fox
+    probability: 1
+  - name: Finch
+    probability: 1
+  - name: Goldfinch
+    probability: 1
+  - name: Griffin
+    probability: 1
+  - name: Malachi
+    probability: 1
 - names:
   - name: ''
     probability: 50
@@ -532,6 +600,24 @@ mainset:
     probability: 1
   - name: ' Moon'
     probability: 1
+  - name: shire
+    probability: 1
+  - name: ' Delight'
+    probability: 1
+  - name: '''s Head'
+    probability: 1
+  - name: '''s End'
+    probability: 1
+  - name: '''s Heart'
+    probability: 1
+  - name: ' Briar'
+    probability: 1
+  - name: ' Hollow'
+    probability: 1
+  - name: boro
+    probability: 1
+  - name: borough
+    probability: 1
 name: Multipart
 source: null
 subsets:
@@ -566,7 +652,9 @@ subsets:
       probability: 1
     - name: 'Dark '
       probability: 1
-    - name: ' First '
+    - name: 'First '
       probability: 1
     - name: 'Last '
+      probability: 1
+    - name: 'Wild '
       probability: 1
